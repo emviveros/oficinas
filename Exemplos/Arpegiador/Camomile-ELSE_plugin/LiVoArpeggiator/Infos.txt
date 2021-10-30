@@ -1,0 +1,5 @@
+Arpegiador MIDI baseado no arpegiador do Ableton Live, sendo feito como requisito da oficina de Live Electronics do Alexandre Porres.
+
+Version: 0.1
+Author: Esteban Viveros
+2021-07-26

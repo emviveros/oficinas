@@ -1,0 +1,14 @@
+type effect;
+code kbAr;
+compatibility 1.0.7;
+bus 1 1;
+midionly false;
+midiin true;
+midiout true;
+playhead true;
+key false;
+
+param -name Arpeggio Mode -list Up/Down/UpDown/DownUp/Up&Down/Down&Up -default 0;
+
+manufacturer Esteban Viveros;
+description Infos.txt
