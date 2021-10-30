@@ -1,0 +1,11 @@
+type effect;
+code mPrA;
+compatibility 1.0.7;
+bus 1 1;
+midionly false;
+midiin true;
+midiout true;
+key false;
+
+
+manufacturer Porres;
