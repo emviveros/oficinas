@@ -1,13 +1,4 @@
 ##########################################################################
-## Ignora sincronização de configurações customizadas do Obsidian
-
-.obsidian
-
-## FIM
-##########################################################################
-
-
-##########################################################################
 ## gitignore para arquivos ocultos OSx
 ## referência:
 ## https://github.com/github/gitignore/edit/master/Global/macOS.gitignore
@@ -40,25 +31,6 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-
-## FIM
-##########################################################################
-
-
-##########################################################################
-## Início de gitignore para arquivos do VSCode
-## Referência:
-## https://github.com/github/gitignore/blob/master/Global/VisualStudioCode.gitignore
-
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-*.code-workspace
-
-# Local History for Visual Studio Code
-.history/
 
 ## FIM
 ##########################################################################
