@@ -1,0 +1,9 @@
+program short;
+program medium;
+program long;
+iolayout 1 1;
+code DlPr;
+type effect;
+description Infos.txt;
+manufacturer Porres;
+compatibility 1.0.7;

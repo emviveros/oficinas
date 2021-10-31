@@ -1,0 +1,4 @@
+A monophonic envelope filter synth.
+
+Version: 1.0
+Author: Porres

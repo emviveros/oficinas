@@ -1,0 +1,4 @@
+Random chord generator
+
+Version: 0.1
+Author: Porres

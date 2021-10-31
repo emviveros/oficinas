@@ -1,0 +1,7 @@
+type instrument;
+iolayout 0 1;
+code EFMP;
+midiin true;
+description Infos.txt;
+compatibility 1.0.7;
+manufacturer Porres;
